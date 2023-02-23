@@ -1,3 +1,4 @@
 pandas
+numpy==1.22.0
 bertopic
 topically
